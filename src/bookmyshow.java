@@ -61,6 +61,7 @@ class shows
                 String row=String.valueOf(i);
                 String col=String.valueOf(j);
                 isavail.put(row+" "+col,true);
+
             }
         }
     }
